@@ -1,0 +1,5 @@
+# vi: ft=dosini
+[main]
+
+less_chatty = True
+pager = /usr/bin/pspg --quit-if-one-screen --ignore-case -s 6 --no-cursor --less-status-bar --pgcli-fix -X
